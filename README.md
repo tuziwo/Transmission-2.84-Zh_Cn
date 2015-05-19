@@ -36,7 +36,8 @@ BUILDING
   Building a Transmission release from the command line:
 
     $ xz -d -c transmission-2.84.tar.xz | tar xf -
-    $ cd transmission-2.11
+    $ cd Transmission-2.84-Zh_Cn
+    $ cd transmission-2.84
     $ ./configure
     $ make
     $ sudo make install
