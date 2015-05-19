@@ -11,8 +11,8 @@ https://github.com/tuziwo/Transmission-2.84-Zh_Cn/releases/download/2.84/transmi
 
 Lets start with an example:
 
-wget https://github.com/tuziwo/Transmission-2.84-Zh_Cn/releases/download/2.84/transmission-2.84.tar.xz
-
+   wget https://github.com/tuziwo/Transmission-2.84-Zh_Cn/releases/download/2.84/transmission-2.84.tar.xz
+   
 ABOUT
 
   Transmission is a fast, easy, and free BitTorrent client.
