@@ -9,6 +9,8 @@ Transmission-2.84-Zh_Cn
 Downloads：
 https://github.com/tuziwo/Transmission-2.84-Zh_Cn/releases/download/2.84/transmission-2.84.tar.xz
 
+Lets start with an example:
+
 wget https://github.com/tuziwo/Transmission-2.84-Zh_Cn/releases/download/2.84/transmission-2.84.tar.xz
 
 ABOUT
